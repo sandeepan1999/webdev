@@ -1,0 +1,133 @@
+header{
+  background-color: #08d9d6;
+  padding: 100px;
+  font-family: 'Gelasio', serif;
+  font-size: 3rem;
+  color: black;
+  position: relative;
+
+
+}
+
+
+.navbar{
+  font-size: 1.25rem;
+  font-family: 'Gelasio', serif;
+  color: black;
+}
+.top-container{
+
+  background-color: #252a34;
+  padding: 100px;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.75rem;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+.middle-container{
+  background-color: #ff2e63;
+  padding: 85px 100px 85px 100px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.75rem;}
+.table2{
+  background-color:  #ff7315;
+  padding: 85px 100px 85px 100px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.75rem;
+}
+.table3{
+  background-color: #fe9801;
+  padding: 85px 100px 85px 100px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.75rem;
+
+}
+
+
+table{
+  font-size: 1.75rem;
+  line-height: 3rem;
+  text-align: justify;
+
+}
+td{
+  padding-left: 20px;
+}
+th{
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.bottom-container{
+  background-color: #ff2400;
+
+  padding: 20px 40px 20px 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  font-size: 1rem;
+  color: black;
+
+}
+
+.icon{
+
+  width: 25%;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  float: right;
+  padding-bottom: 100px;
+  z-index: 1;
+}
+
+a{
+  color: black;
+  font-family: 'Gelasio', serif;
+}
+
+.aboutus{
+  background-color: #252a34;
+  padding: 100px;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.75rem;
+  text-align: center;
+
+
+}
+
+.contact{
+  background-color: #252a34;
+  padding: 100px;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.75rem;
+  text-align: center;
+  position: relative;
+}
+button{
+  font-family: 'Josefin Sans', sans-serif;
+
+  padding: 7px;
+}
+.login{
+  background-color: #252a34;
+  padding: 100px;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.75rem;
+  text-align: center;
+  position: relative;
+}
+
+.register{
+  background-color: #252a34;
+  padding: 100px;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.75rem;
+  text-align: center;
+  position: relative;
+
+}
